@@ -34,7 +34,7 @@ public class WebScraper {
     }
 
     public static void main(String[] args) {
-        wordcount(urlToString("http://erdani.com/tdpl/hamlet.txt"));
+        wordcount(urlToString("https://www.bls.gov/tus/charts/chart9.txt"));
         System.out.println("Yus");
     }
 
